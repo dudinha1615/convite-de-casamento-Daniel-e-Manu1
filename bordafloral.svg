@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"></stop>
+      <stop offset="100%" stop-color="#f7f7f2"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- FUNDO LIMPO -->
+  <rect width="1080" height="1920" fill="url(#bg)"></rect>
+
+  <!-- ===== FLORES TOPO ===== -->
+  <g opacity="0.9">
+
+    <!-- canto esquerdo topo -->
+    <circle cx="90" cy="90" r="70" fill="#b9c7a3"></circle>
+    <circle cx="170" cy="130" r="50" fill="#a9b893"></circle>
+    <circle cx="240" cy="70" r="60" fill="#cbd8b8"></circle>
+    <circle cx="320" cy="140" r="45" fill="#a5b58f"></circle>
+
+    <!-- canto direito topo -->
+    <circle cx="990" cy="90" r="70" fill="#b9c7a3"></circle>
+    <circle cx="910" cy="130" r="50" fill="#a9b893"></circle>
+    <circle cx="840" cy="70" r="60" fill="#cbd8b8"></circle>
+    <circle cx="760" cy="140" r="45" fill="#a5b58f"></circle>
+
+  </g>
+
+  <!-- ===== FLORES BASE ===== -->
+  <g opacity="0.9">
+
+    <!-- canto esquerdo baixo -->
+    <circle cx="90" cy="1830" r="70" fill="#b9c7a3"></circle>
+    <circle cx="170" cy="1790" r="50" fill="#a9b893"></circle>
+    <circle cx="240" cy="1850" r="60" fill="#cbd8b8"></circle>
+    <circle cx="320" cy="1780" r="45" fill="#a5b58f"></circle>
+
+    <!-- canto direito baixo -->
+    <circle cx="990" cy="1830" r="70" fill="#b9c7a3"></circle>
+    <circle cx="910" cy="1790" r="50" fill="#a9b893"></circle>
+    <circle cx="840" cy="1850" r="60" fill="#cbd8b8"></circle>
+    <circle cx="760" cy="1780" r="45" fill="#a5b58f"></circle>
+
+  </g>
+
+  <!-- ===== FLORES LATERAIS (leve decoração) ===== -->
+  <g opacity="0.35">
+
+    <!-- lado esquerdo -->
+    <circle cx="40" cy="400" r="50" fill="#b7c9a3"></circle>
+    <circle cx="60" cy="600" r="40" fill="#a8b892"></circle>
+    <circle cx="40" cy="800" r="55" fill="#c9d8b6"></circle>
+    <circle cx="60" cy="1000" r="40" fill="#a5b58f"></circle>
+    <circle cx="40" cy="1200" r="50" fill="#b7c9a3"></circle>
+
+    <!-- lado direito -->
+    <circle cx="1040" cy="400" r="50" fill="#b7c9a3"></circle>
+    <circle cx="1020" cy="600" r="40" fill="#a8b892"></circle>
+    <circle cx="1040" cy="800" r="55" fill="#c9d8b6"></circle>
+    <circle cx="1020" cy="1000" r="40" fill="#a5b58f"></circle>
+    <circle cx="1040" cy="1200" r="50" fill="#b7c9a3"></circle>
+
+  </g>
+
+</svg>
